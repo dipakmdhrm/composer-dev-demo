@@ -1,0 +1,17 @@
+{
+    "name": "dipakmdhrm/composer-dev-demo",
+    "description": "This is a demo composer project that is written to understand the difference between dev & no-dev options of composer dependencies.",
+    "require": {
+        "rivsen/hello-world": "^0.1.0"
+    },
+    "require-dev": {
+        "kint-php/kint": "^3.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dipak Yadav",
+            "email": "dipakmdhrm@gmail.com"
+        }
+    ]
+}
